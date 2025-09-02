@@ -37,3 +37,4 @@ class StartScreen extends StatelessWidget {
     );
   }
 }
+//9.2再編集
